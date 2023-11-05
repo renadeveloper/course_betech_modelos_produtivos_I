@@ -6,11 +6,11 @@ from sklearn.ensemble import RandomForestClassifier
 
 # Clonando o repositório com o dataset
 
-! git clone https://github.com/AnaCarolNP/Machine-Learning-II-ProjetoFinal
+! git clone https://github.com/renadeveloper/course_betech_modelos_produtivos_I/
 
 # Carregando o dataset
 
-shoppers_intention = pd.read_csv('./Machine-Learning-II-ProjetoFinal/online_shoppers_intention.csv', sep=';',decimal=',')
+shoppers_intention = pd.read_csv('./course_betech_modelos_produtivos_I/online_shoppers_intention.csv', sep=';',decimal=',')
 
 # Removendo dados duplicados
 
