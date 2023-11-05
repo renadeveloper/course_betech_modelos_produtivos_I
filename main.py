@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 
 # Clonando o repositório com o dataset
 
-! git clone https://github.com/renadeveloper/course_betech_modelos_produtivos_I/
+git clone https://github.com/renadeveloper/course_betech_modelos_produtivos_I/
 
 # Carregando o dataset
 
